@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a college student who loves learning everything about anything especially all things related to tech. I am still very new to the community and still trying to find my way around
+I am a college student who loves learning anything about everything especially all things related to tech. I am still very new to the community and still trying to find my way around
 - 🔭 I’m currently participating in the #100DaysOfCode challenge
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🤔 I’m looking for help with learning the ropes of the industry and connecting with fellow community members
